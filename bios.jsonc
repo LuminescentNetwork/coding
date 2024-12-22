@@ -1,2 +1,16 @@
-/**Lemme Cooked -Orca**/
-// Message to future orca incase error: Jsonc comments aren't supported
+[
+    {"memdata":
+    [
+        {            
+            "n":"Orca",
+            "r":"Co-Owner/Developer",
+            "boxB":100,
+            "boxC":100,
+            "boxDIM":[100,100],
+            "description":"Goofy Aquatic Mammal",
+            "PFP_filepath":"TBA"
+
+            }
+        ]
+    }
+]
