@@ -8,7 +8,8 @@
             "boxC":60,
             "boxDIM":[1000,450],
             "description":"Goofy Aquatic Mammal",
-            "PFP_filepath":"TBA"
+            "PFP_filepath":"TBA",
+            "TC":"#32a4a8"
 
             }
         ]
