@@ -4,9 +4,9 @@
         {            
             "n":"Orca",
             "r":"Co-Owner/Developer",
-            "boxB":100,
-            "boxC":100,
-            "boxDIM":[1000,400],
+            "boxB":60,
+            "boxC":60,
+            "boxDIM":[2000,400],
             "description":"Goofy Aquatic Mammal",
             "PFP_filepath":"TBA"
 
