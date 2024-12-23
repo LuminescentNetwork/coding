@@ -6,7 +6,7 @@
             "r":"Co-Owner/Developer",
             "boxB":100,
             "boxC":100,
-            "boxDIM":[100,100],
+            "boxDIM":[1000,400],
             "description":"Goofy Aquatic Mammal",
             "PFP_filepath":"TBA"
 
