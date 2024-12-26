@@ -1,9 +1,6 @@
 # Script Idea
 ---
-## Put scripts that need work here surrounded by
----
-```
-```
+## Put scripts that need work here surrounded by ``` on the top, and ``` on the bottom
 ---
 ```
 <style type="text/css">
